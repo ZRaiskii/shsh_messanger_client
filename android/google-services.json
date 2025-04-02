@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575851163890",
+    "project_id": "shsh-social-network",
+    "storage_bucket": "shsh-social-network.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575851163890:android:57fa8bd13d89b48d32206b",
+        "android_client_info": {
+          "package_name": "com.shsh.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwfpxAXfp27H2cznS4phKiJ9vhxl0Xa4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+C:/Users/lucky/Desktop/project/project/shsh_messanger/android/app/.cxx/RelWithDebInfo/n2p536cn/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/lucky/Desktop/project/project/shsh_messanger/android/app/.cxx/RelWithDebInfo/n2p536cn/x86_64/CMakeFiles/rebuild_cache.dir
